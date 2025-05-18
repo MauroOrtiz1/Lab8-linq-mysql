@@ -190,3 +190,4 @@ C:\Users\User\RiderProjects\Lab8-BernieOrtiz\Lab8-BernieOrtiz\obj\Debug\net9.0\r
 C:\Users\User\RiderProjects\Lab8-BernieOrtiz\Lab8-BernieOrtiz\obj\Debug\net9.0\Lab8-BernieOrtiz.pdb
 C:\Users\User\RiderProjects\Lab8-BernieOrtiz\Lab8-BernieOrtiz\obj\Debug\net9.0\Lab8-BernieOrtiz.genruntimeconfig.cache
 C:\Users\User\RiderProjects\Lab8-BernieOrtiz\Lab8-BernieOrtiz\obj\Debug\net9.0\ref\Lab8-BernieOrtiz.dll
+C:\Users\User\RiderProjects\Lab8-BernieOrtiz\Lab8-BernieOrtiz\obj\Debug\net9.0\Lab8-BernieOrtiz.sourcelink.json

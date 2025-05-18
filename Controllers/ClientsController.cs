@@ -1,6 +1,7 @@
 ﻿using Lab8_BernieOrtiz.Models;
 using Lab8_BernieOrtiz.Repositories;
 using Microsoft.AspNetCore.Mvc;
+using Lab8_BernieOrtiz.DTOs;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -112,4 +113,9 @@ public class ClientsController : ControllerBase{
 
         return Ok(clientNames);
     }
+    
+    // --------------------------------------------------------
+    // Paso 2: Consultas con AsNoTracking()
+    
+    
 }
